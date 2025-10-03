@@ -1,6 +1,5 @@
 # Cybersecurity Internship Task 8: VPN Setup and Analysis
-## Elevate Labs - Ministry of MSME, Govt. of India
-
+## Elevate Labs
 **Student:** Hemant Gaikwad  
 **Date:** October 3, 2025  
 **Task:** Understanding VPN Privacy and Security Communication  
@@ -448,4 +447,4 @@ vpn-analysis-task8/
 **Submitted by:** Hemant Gaikwad  
 **GitHub Repository:** [Link to be provided]  
 **Submission Date:** October 3, 2025  
-**Internship Program:** Elevate Labs Cybersecurity Internship - MSME, Govt. of India
+**Internship Program:** Elevate Labs Cybersecurity Internship 
